@@ -12,4 +12,4 @@ Create a cron for every node
 0 5 * * 2 root python3 /path/to/crmsh_reboot.py
 ```
 
-For more cron explanation look at this [site]{https://crontab.guru/}
+For more cron explanation look at this [site](https://crontab.guru)
